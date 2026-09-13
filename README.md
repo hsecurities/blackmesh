@@ -2,7 +2,7 @@
 
 > Decentralized encrypted peer-to-peer network built for privacy, secure communication, anonymous identities, and community-owned infrastructure.
 
-![BLACKMESH Banner](https://raw.githubusercontent.com/hsecurities/blackmesh/main/assets/banner.png)
+![BLACKMESH Banner](https://raw.githubusercontent.com/hsecurities/blackmesh/tree/main/assets/banner.png)
 
 ## What is BLACKMESH?
 
